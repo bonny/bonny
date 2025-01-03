@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-You can find me on Mastodon:
-https://mastodon.social/@eskapism
+You can find me on Mastodon or Bluesky:
+- https://mastodon.social/@eskapism
+- https://bsky.app/profile/eskapism.bsky.social
 
 <!--
 **bonny/bonny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
