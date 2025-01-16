@@ -14,7 +14,10 @@
 
 I spend my days at [Earth People](https://earthpeople.se/) where I do web stuff.
 
-My evenings and nights I spend developing [Simple History](https://simple-history.com/) – a WordPress event log for the things that matter.
+My evenings and nights I spend developing things like:
+- [Simple History](https://simple-history.com/) – a WordPress event log for the things that matter.
+- [Brottsplatskartan](https://brottsplatskartan.se/) – A map of Swedish crimes as reported by the Police.
+- [TextTV.nu](https://texttv.nu/) – A better version of Swedish teletext (yes, it does this exist here in Sweden!)
 
 
 <!--
